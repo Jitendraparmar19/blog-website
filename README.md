@@ -1,4 +1,4 @@
-# blog-website
+# Blog-Website
 
 Implemented a Blogging platform using Express.js framework and EJS templating where user can perform CRUD operations, post blog specific comments and fetch the blogs using keywords based search queries.
 
