@@ -2,7 +2,7 @@
 
 Implemented a Blogging platform using Express.js framework and EJS templating where user can perform CRUD operations, post blog specific comments and fetch the blogs using keywords based search queries.
 
-Used Bootstrap and CSS in the front-end and Mongoose based database integration in the back-end
+Used Bootstrap and CSS in the front-end and Mongoose based database integration in the back-end.
 
 ![Screenshot (251)](https://user-images.githubusercontent.com/69416574/133267932-3519b6a5-6b1f-4f58-8611-7a048855f4ce.png)
 
